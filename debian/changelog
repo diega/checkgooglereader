@@ -1,0 +1,6 @@
+checkgooglereader (0.0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Diego López León <diego@locolandia.com.ar>  Mon, 11 Feb 2008 08:55:32 -0200
+

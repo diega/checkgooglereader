@@ -1,0 +1,11 @@
+.url
+{
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.url:hover
+{
+    color: #ff0000;
+}

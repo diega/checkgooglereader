@@ -2,3 +2,5 @@
 *.pyo
 *.o
 .*
+.project
+.pydevproject
